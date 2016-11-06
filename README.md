@@ -1,5 +1,5 @@
 # Magento2 LocaleRuUA
-AAdd locale ru_UA to allowed locales list.
+Add locale ru_UA to allowed locales list.
 
 <img alt="Magento2 LocaleRuUA" src="https://karliuka.github.io/m2/locale-ru_ua/account.png" style="width:100%"/>
 ## Install with Composer as you go
