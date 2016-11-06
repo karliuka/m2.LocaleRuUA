@@ -9,7 +9,7 @@ Add locale ru_UA to allowed locales list.
 2. Enter following commands to install module:
 
     ```bash
-    composer require faonni/module-locale-ru_ua
+    composer require faonni/language-ru_ua
     ```
    Wait while dependencies are updated.
 
